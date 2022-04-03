@@ -15,3 +15,9 @@ https://type-scale.com/
 # Design Systems
 
 https://medium.com/@VitskyDS/design-system-based-on-the-8pt-grid-2473ca5f0ae1
+
+
+
+# Line height
+
+https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align
