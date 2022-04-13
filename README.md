@@ -27,6 +27,9 @@ https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align
 
 https://scalablecss.com/bem-blocks-within-blocks/#:~:text=Stick%20to%20the%20block%20naming,element%20AND%20block%20class%20together
 
+BEM cheat sheet
+https://9elements.com/bem-cheat-sheet/
+
 
 # TO READ
 https://atomicdesign.bradfrost.com/chapter-2/
