@@ -38,3 +38,7 @@ https://atomicdesign.bradfrost.com/chapter-2/
 
 # UNITY GAME NETWORK MATCH MAKING SOLUTIONS
 https://forum.unity.com/threads/what-are-the-pros-and-cons-of-available-network-solutions-assets.609088/
+
+
+# LANDING PAGE BEST PRACTICE
+https://www.julian.com/guide/startup/landing-pages
