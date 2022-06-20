@@ -42,3 +42,7 @@ https://forum.unity.com/threads/what-are-the-pros-and-cons-of-available-network-
 
 # LANDING PAGE BEST PRACTICE
 https://www.julian.com/guide/startup/landing-pages
+
+
+# FRONT END INSPIRATION, TO CLONE
+https://mediaqueri.es/
